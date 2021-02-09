@@ -6,8 +6,8 @@ Please click the link to the left or <a href="https://github.com/jlferrand/condo
  
 If you have any questions regarding the publication or the data, please feel free to reach out to me at jlferran@iu.edu. Thank you!
 
-John L. Ferrand, MPH (he, him, his)
+<p>John L. Ferrand, MPH (he, him, his)
 Doctoral Student – Health Behavior
 Department of Applied Health Science
 School of Public Health - Bloomington
-Indiana University
+Indiana University</p>
